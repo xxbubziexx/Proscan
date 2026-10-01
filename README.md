@@ -1,5 +1,5 @@
-# Proscan-23.4-Activation-Patch
-Proscan 23.4 Activation Patch. All-In-One Computer Aided Scanning Program.
+# Proscan Activation Patch
+Proscan 23.4 Activation Patch.
 This is my first ever approach with patching software :D
 After years of using this program, I decided to look into patching this myself with the help of gpt. With the inspiration of the github user "stoom" which whom patched a earlier version of this program. 
 I pretty much followed his method but with gpt's help because i am only just 'familiar' with coding.
